@@ -6,6 +6,10 @@ This is a map built upon the starter kit for [WorkAdventure](https://workadventu
 
 To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
 
+You can visit the Library at: https://play.workadventu.re/@/responsibletech.work/rtw/library
+
+This map uses the [generateResourceLayers script](https://github.com/ResponsibleTechWork/generateResourceLayers) to auto-populate Library resources.
+
 ## Structure
 
 * **tilesets** : All tilesets
