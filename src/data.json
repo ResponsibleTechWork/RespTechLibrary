@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "resolveJsonModule" : true
+    },
+    "helpInfo": "The Responsible Tech Library is being built to inspire conversations around responsible tech. We invite you to browse resources and use this space to meet with people."
+}
