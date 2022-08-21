@@ -5,12 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <meta name="robots" content="noindex">
-    <meta name="title" content="WorkAdventure Starter Kit">
+    <meta name="title" content="Responsible Tech Library map">
 
     <link rel="icon" href="https://workadventu.re/favicon-96x96.png">
     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
     <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
-    <title>WorkAdventure Starter Kit</title>
+    <title>Responsible Tech Library map</title>
     <script>
         window.onload = function () {
             const host = window.location.host;
@@ -19,12 +19,12 @@
                 path = path.substr(path, path.length - 'index.html'.length);
             }
             const instanceId = Math.random().toString(36).substring(2, 15);
-            const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}map.json`;
+            const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}library.json`;
             document.getElementById('testMapURL').href = url;
             document.getElementById('testMapBtnURL').href = url;
             document.getElementById('testMapURL').innerText = url;
 
-            const jsonURL = window.location.protocol + '//' + window.location.host + path + 'map.json';
+            const jsonURL = window.location.protocol + '//' + window.location.host + path + 'library.json';
             document.getElementById('jsonURL').innerText = jsonURL;
 
             const gettingStartedLink = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL;
