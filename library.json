@@ -223,7 +223,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"audio\/fountain.mp3"
+                         "value":"audio\/relaxing-river-sound.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -373,7 +373,7 @@
             0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 4691, 4692, 4692, 4692, 4223, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4222, 4692, 4692, 4693, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
             0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 4742, 4743, 4070, 4070, 4635, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4636, 4637, 4630, 4631, 4632, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
             0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 4798, 4799, 4746, 4747, 4635, 4636, 4636, 4636, 4636, 4222, 4692, 4692, 4692, 4223, 4636, 4636, 4637, 4689, 4522, 4690, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
-            0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 4746, 4747, 4802, 4803, 4691, 4692, 4692, 4692, 4692, 4693, 3962, 4017, 3963, 4691, 4692, 4692, 4693, 4686, 4687, 4688, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
+            0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 4746, 4747, 4802, 4803, 4691, 4692, 4692, 4692, 4692, 4693, 4015, 4015, 4015, 4691, 4692, 4692, 4693, 4686, 4687, 4688, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
             0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
             0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
             0, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 108, 0,
@@ -464,8 +464,8 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5169, 5171, 4699, 4699, 4699, 4812, 0, 0, 0, 0, 0, 0, 4946, 0, 4756, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5181, 5183, 4812, 0, 4754, 0, 0, 0, 0, 0, 0, 0, 4482, 0, 4756, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4756, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4754, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4756, 0, 0, 0, 4698, 0, 0, 0, 4812, 4811, 4812, 0, 0, 0, 0, 4698, 5157, 5159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4810, 4699, 4699, 4699, 4812, 0, 0, 0, 0, 0, 4810, 4699, 4699, 4699, 4699, 4699, 5169, 5171, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4756, 0, 0, 0, 4698, 0, 0, 0, 4811, 4812, 4756, 0, 0, 0, 0, 4698, 5157, 5159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4810, 4699, 4699, 4811, 4812, 0, 0, 0, 0, 0, 4810, 4699, 4699, 4699, 4699, 4699, 5169, 5171, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4756, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4222, 4810, 5181, 5183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5157, 5159, 4700, 0, 0, 4756, 0, 4956, 4482, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5169, 5171, 4699, 4699, 4756, 4754, 0, 4482, 4955, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4278, 4698, 5157, 5159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -817,7 +817,6 @@
          "name":"resourcesAreas",
          "objects":[
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"A11Y Project Accessibility Checklist",
@@ -843,13 +842,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"CivicActions Accessibility List of Tools ",
@@ -875,13 +874,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":192,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Inclusive Design Toolkit by University of Cambridge",
@@ -907,13 +906,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Microsoft Inclusive Design Toolkit",
@@ -939,13 +938,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":384,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Mobile A11y blog",
@@ -971,13 +970,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":480,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"WebAIM Introduction to Web Accessibility",
@@ -1003,13 +1002,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"CivicActions Accessibility book recommendations",
@@ -1035,13 +1034,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":192,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Aequitas open source bias audit toolkit",
@@ -1067,13 +1066,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1408,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"AI Blindspot Cards",
@@ -1099,13 +1098,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1504,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"AI Farness 360 toolkit by IBM",
@@ -1131,13 +1130,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1600,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
@@ -1163,13 +1162,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1696,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Weapons of Math Destruction: How big data increases inequality and threatens democracy",
@@ -1195,13 +1194,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1792,
                  "y":736
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Algorithmic Justic League",
@@ -1227,13 +1226,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1408,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Data & Society",
@@ -1259,13 +1258,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1504,
                  "y":768
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Contributor Covenant",
@@ -1291,13 +1290,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":768,
                  "y":1120
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"The Diversity and Inclusion toolkit by Tech Nation ",
@@ -1323,13 +1322,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":864,
                  "y":1120
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"W3C Code of Ethics and Professional Conduct ",
@@ -1355,13 +1354,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":960,
                  "y":1120
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Invisible Women: Data Bias in a World Designed for Men",
@@ -1387,13 +1386,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1056,
                  "y":1120
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Black Tech Pipeline",
@@ -1419,13 +1418,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1152,
                  "y":1120
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Design Justice Network ",
@@ -1451,13 +1450,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":768,
                  "y":1152
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Diversify Tech",
@@ -1483,13 +1482,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":864,
                  "y":1152
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Hire More Women In Tech",
@@ -1515,13 +1514,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":960,
                  "y":1152
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"An Ethical Toolkit for Engineering\/Design Practice",
@@ -1547,13 +1546,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"A Framework for More Ethical Innovation by Substantial",
@@ -1579,13 +1578,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":192,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Consequence Scanning Agile Kit",
@@ -1611,13 +1610,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Data Ethics Canvas by Open Data Institute",
@@ -1643,13 +1642,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":384,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Envisioning Cards",
@@ -1675,13 +1674,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":480,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Ethical Licenses for Open Source Software",
@@ -1707,13 +1706,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Ethics for Designers",
@@ -1739,13 +1738,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":192,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Privacy by Design",
@@ -1771,13 +1770,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Responsible tech playbook by Thoughtworks",
@@ -1803,13 +1802,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":384,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Spotify's Ethics Assessment Worksheet",
@@ -1835,13 +1834,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":480,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Values in Computing",
@@ -1867,13 +1866,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Tethix Directory of Ethics Tools and Techniques",
@@ -1899,13 +1898,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":192,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"The Ethics and Inclusion Framework",
@@ -1931,13 +1930,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Value Sensitive Design Research Lab",
@@ -1963,13 +1962,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":384,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
@@ -1995,13 +1994,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":480,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass",
@@ -2027,13 +2026,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":96,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Ruined by Design: A design ethics and activism book",
@@ -2059,13 +2058,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":192,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"All Tech Is Human",
@@ -2091,13 +2090,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":288,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Ethical Design Network",
@@ -2123,13 +2122,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":384,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"B Impact Assessment",
@@ -2155,13 +2154,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1408,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"ClimateAction.Tech guide: Reduce the carbon emissions of your website",
@@ -2187,13 +2186,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1504,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Climate Justice 101 Guide",
@@ -2219,13 +2218,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1600,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Cloud Carbon Emissions Measurement and Analysis Tool",
@@ -2251,13 +2250,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1696,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Planet Centric Design",
@@ -2283,13 +2282,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1792,
                  "y":448
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Principles of Green Software Engineering",
@@ -2315,13 +2314,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1408,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Sustainable Design Tools",
@@ -2347,13 +2346,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1504,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Sustainable Web Design",
@@ -2379,13 +2378,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1600,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Tools for Sustainable Innovation by Threebility",
@@ -2411,13 +2410,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1696,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Website Carbon Calculator",
@@ -2443,13 +2442,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1792,
                  "y":480
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Sustainable Virtual Design",
@@ -2475,13 +2474,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1408,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"SustainableBusinessModel.org",
@@ -2507,13 +2506,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1504,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Design Is the Problem: The Future of Design Must be Sustainable",
@@ -2539,13 +2538,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1600,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Designing for Sustainability",
@@ -2571,13 +2570,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1696,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"World Wide Waste",
@@ -2603,13 +2602,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1792,
                  "y":576
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"ClimateAction.tech",
@@ -2635,13 +2634,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1408,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"The Green Web Foundation",
@@ -2667,13 +2666,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1504,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"Work on Climate",
@@ -2699,13 +2698,13 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1600,
                  "y":608
                 }, 
                 {
-                 "class":"area",
                  "height":32,
                  "id":100,
                  "name":"SustainableUX",
@@ -2731,6 +2730,7 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":96,
                  "x":1696,
@@ -2799,18 +2799,17 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "class":"",
                  "height":61.6673,
                  "id":27,
                  "name":"clockPopup",
                  "rotation":0,
+                 "type":"",
                  "visible":true,
                  "width":93.7162,
                  "x":1344.68224530581,
                  "y":32.2125296224469
                 }, 
                 {
-                 "class":"area",
                  "height":142.406289965197,
                  "id":51,
                  "name":"gardenZoomUpper",
@@ -2826,13 +2825,13 @@
                          "value":0.5
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":179.870899454166,
                  "x":806.661189663975,
                  "y":461.493929925047
                 }, 
                 {
-                 "class":"area",
                  "height":60.2599157033284,
                  "id":64,
                  "name":"eventsCalendar",
@@ -2858,6 +2857,7 @@
                          "value":"50"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":126.487096092732,
                  "x":1184.80429732125,
@@ -2865,7 +2865,7 @@
                 }],
          "opacity":0.99,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -2875,7 +2875,6 @@
          "name":"soundAreas",
          "objects":[
                 {
-                 "class":"area",
                  "height":901.176915230554,
                  "id":63,
                  "name":"librarySounds",
@@ -2896,13 +2895,13 @@
                          "value":"audio\/library.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1927.59733768048,
                  "x":28.7986208998029,
                  "y":352.170916920595
                 }, 
                 {
-                 "class":"area",
                  "height":639.076488372093,
                  "id":55,
                  "name":"gardenSounds",
@@ -2923,13 +2922,13 @@
                          "value":"audio\/garden.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":638.311,
                  "x":674.061554263566,
                  "y":346.03830620155
                 }, 
                 {
-                 "class":"area",
                  "height":335.271010825663,
                  "id":61,
                  "name":"receptionMusic",
@@ -2950,13 +2949,13 @@
                          "value":"audio\/nature-ambiance.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":1112.36719720738,
                  "x":837.650255401964,
                  "y":11.7616830281516
                 }, 
                 {
-                 "class":"area",
                  "height":335.271,
                  "id":62,
                  "name":"fantasyRoom",
@@ -2977,6 +2976,7 @@
                          "value":"audio\/fantasy.mp3"
                         }],
                  "rotation":0,
+                 "type":"area",
                  "visible":true,
                  "width":802.772476780186,
                  "x":30.0867551384588,
@@ -3593,6 +3593,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.9",
+ "version":"1.8",
  "width":62
 }
