@@ -10,6 +10,14 @@ You can visit the Library at: https://play.workadventu.re/@/responsibletech.work
 
 This map uses the [generateResourceLayers script](https://github.com/ResponsibleTechWork/generateResourceLayers) to auto-populate Library resources.
 
+## Editing the map in Tiled
+
+If you wish to visually edit the map, you'll need the [Tiled map editor](https://www.mapeditor.org/). The WorkAdventure [map building tutorial](https://workadventu.re/map-building/) provides additional info on how to add or edit WorkAdventure-specific properties and layers in Tiled.
+
+A note if you're using the latest version of Tiled (1.9+): due to changes in the JSON schema, you'll likely encounter an [issue](https://github.com/thecodingmachine/workadventure-map-starter-kit/issues/39) with special area zones that play music or open websites. Currently, the easiest solution is to open the JSON map file within a Tiled project with v1.8 compatibility mode enabled. For this reason, the project file is also included in this repo. 
+
+If you intend to edit the map in Tiled v1.9+, first open the project file `RespTechLibrary.tiled-project` in Tiled, and then open the `library.json` file. A `.tiled-session` file will also be created to help you resume work where you left it.
+
 ## Structure
 
 * **tilesets** : All tilesets
@@ -45,7 +53,7 @@ npm run preview
 This project contains multiple licenses as follows:
 
 * [Code license](./LICENSE.code) *(all files except those for other licenses)*
-* [Map license](./LICENSE.map) *(`map.json` and the map visual as well)*
+* [Map license](./LICENSE.map) *(`library.json` and the map visual as well)*
 * [Assets license](./LICENSE.assets) *(the files inside the `src/assets/` folder)*
 
 ### About third party assets
