@@ -1,7 +1,6 @@
 /// <reference types="@workadventure/iframe-api-typings" />
 
 import { bootstrapExtra } from "@workadventure/scripting-api-extra";
-import * as data from "./data.json";
 
 console.log('Script started successfully');
 
@@ -29,7 +28,7 @@ WA.onInit().then(() => {
     // Listening to player's request for help in the chat
     WA.chat.onChatMessage((message => {
         if (message == 'help') {
-            WA.chat.sendChatMessage(data.helpInfo, botName);
+            WA.nav.openCoWebSite('../library_info.html');
         }
     }));
 
