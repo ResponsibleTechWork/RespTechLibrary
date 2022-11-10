@@ -56,8 +56,8 @@
         {
          "data":[4854, 4855, 4856, 4857, 4858, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             4864, 4865, 4866, 4867, 4868, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            5142, 5143, 5144, 5130, 5131, 5132, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            5202, 5203, 5204, 5205, 5206, 5207, 5208, 5209, 5210, 5211, 5212, 5213, 5142, 5143, 5144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            5190, 5191, 5192, 5193, 5194, 5195, 5196, 5197, 5198, 5199, 5200, 5201, 5130, 5131, 5132, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -815,12 +815,12 @@
          "name":"resourcesAreas",
          "objects":[
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"A11Y Project Accessibility Checklist",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.a11yproject.com\/checklist\/"
                         }, 
@@ -832,7 +832,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"A11Y Project Accessibility Checklist ______________________________  Press SPACE to view website"
+                         "value":"A11Y Project Accessibility Checklist ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -842,17 +842,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":96,
+                 "width":88,
+                 "x":100,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"CivicActions Accessibility List of Tools ",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/accessibility.civicactions.com\/guide\/tools"
                         }, 
@@ -864,7 +864,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"CivicActions Accessibility List of Tools  ______________________________  Press SPACE to view website"
+                         "value":"CivicActions Accessibility List of Tools  ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -874,17 +874,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":192,
+                 "width":88,
+                 "x":196,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Inclusive Design Toolkit by University of Cambridge",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/www.inclusivedesigntoolkit.com\/"
                         }, 
@@ -896,7 +896,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Inclusive Design Toolkit by University of Cambridge ______________________________  Press SPACE to view website"
+                         "value":"Inclusive Design Toolkit by University of Cambridge ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -906,17 +906,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":288,
+                 "width":88,
+                 "x":292,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Microsoft Inclusive Design Toolkit",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.microsoft.com\/design\/inclusive\/"
                         }, 
@@ -928,7 +928,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Microsoft Inclusive Design Toolkit ______________________________  Press SPACE to view website"
+                         "value":"Microsoft Inclusive Design Toolkit ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -938,17 +938,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":384,
+                 "width":88,
+                 "x":388,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Mobile A11y blog",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/mobilea11y.com\/"
                         }, 
@@ -960,7 +960,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Mobile A11y blog ______________________________  Press SPACE to view website"
+                         "value":"Mobile A11y blog ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -970,17 +970,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":480,
+                 "width":88,
+                 "x":484,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"WebAIM Introduction to Web Accessibility",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/webaim.org\/intro\/"
                         }, 
@@ -992,7 +992,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"WebAIM Introduction to Web Accessibility ______________________________  Press SPACE to view website"
+                         "value":"WebAIM Introduction to Web Accessibility ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1002,17 +1002,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":96,
-                 "y":768
+                 "width":88,
+                 "x":100,
+                 "y":772
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"CivicActions Accessibility book recommendations",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/accessibility.civicactions.com\/guide\/resources#books"
                         }, 
@@ -1024,7 +1024,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"CivicActions Accessibility book recommendations ______________________________  Press SPACE to view website"
+                         "value":"CivicActions Accessibility book recommendations ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1034,17 +1034,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":192,
-                 "y":768
+                 "width":88,
+                 "x":196,
+                 "y":772
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Aequitas open source bias audit toolkit",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/www.datasciencepublicpolicy.org\/projects\/aequitas\/"
                         }, 
@@ -1056,7 +1056,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Aequitas open source bias audit toolkit ______________________________  Press SPACE to view website"
+                         "value":"Aequitas open source bias audit toolkit ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1066,17 +1066,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1408,
+                 "width":88,
+                 "x":1412,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"AI Blindspot Cards",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/aiblindspot.media.mit.edu\/"
                         }, 
@@ -1088,7 +1088,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"AI Blindspot Cards ______________________________  Press SPACE to view website"
+                         "value":"AI Blindspot Cards ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1098,17 +1098,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1504,
+                 "width":88,
+                 "x":1508,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"AI Farness 360 toolkit by IBM",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/aif360.mybluemix.net\/"
                         }, 
@@ -1120,7 +1120,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"AI Farness 360 toolkit by IBM ______________________________  Press SPACE to view website"
+                         "value":"AI Farness 360 toolkit by IBM ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1130,17 +1130,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1600,
+                 "width":88,
+                 "x":1604,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/katecrawford.net\/"
                         }, 
@@ -1152,7 +1152,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence ______________________________  Press SPACE to view website"
+                         "value":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1162,17 +1162,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1696,
+                 "width":88,
+                 "x":1700,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Weapons of Math Destruction: How big data increases inequality and threatens democracy",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/weaponsofmathdestructionbook.com"
                         }, 
@@ -1184,7 +1184,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Weapons of Math Destruction: How big data increases inequality and threatens democracy ______________________________  Press SPACE to view website"
+                         "value":"Weapons of Math Destruction: How big data increases inequality and threatens democracy ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1194,17 +1194,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1792,
+                 "width":88,
+                 "x":1796,
                  "y":736
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Algorithmic Justic League",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.ajl.org"
                         }, 
@@ -1216,7 +1216,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Algorithmic Justic League: is  an organization that combines art and research to illuminate the social implications and harms of artificial intelligence. ______________________________  Press SPACE to view website"
+                         "value":"Algorithmic Justic League: is  an organization that combines art and research to illuminate the social implications and harms of artificial intelligence. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1226,17 +1226,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1408,
-                 "y":768
+                 "width":88,
+                 "x":1412,
+                 "y":772
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Data & Society",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/datasociety.net"
                         }, 
@@ -1248,7 +1248,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Data & Society: is an independent nonprofit research organization that studies the social implications of data-centric technologies & automation. ______________________________  Press SPACE to view website"
+                         "value":"Data & Society: is an independent nonprofit research organization that studies the social implications of data-centric technologies & automation. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1258,17 +1258,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1504,
-                 "y":768
+                 "width":88,
+                 "x":1508,
+                 "y":772
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Contributor Covenant",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.contributor-covenant.org\/"
                         }, 
@@ -1280,7 +1280,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Contributor Covenant: a code of conduct for open source communities and other digital commons communities. ______________________________  Press SPACE to view website"
+                         "value":"Contributor Covenant: a code of conduct for open source communities and other digital commons communities. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1290,17 +1290,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":768,
+                 "width":88,
+                 "x":772,
                  "y":1120
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"The Diversity and Inclusion toolkit by Tech Nation ",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/technation.io\/diversity-and-inclusion\/"
                         }, 
@@ -1312,7 +1312,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"The Diversity and Inclusion toolkit by Tech Nation : this toolkit by Tech Nation offers actionable insights and guidance to help founders build diverse and inclusive companies. ______________________________  Press SPACE to view website"
+                         "value":"The Diversity and Inclusion toolkit by Tech Nation : this toolkit by Tech Nation offers actionable insights and guidance to help founders build diverse and inclusive companies. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1322,17 +1322,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":864,
+                 "width":88,
+                 "x":868,
                  "y":1120
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"W3C Code of Ethics and Professional Conduct ",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.w3.org\/Consortium\/cepc\/"
                         }, 
@@ -1344,7 +1344,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"W3C Code of Ethics and Professional Conduct : this code can be used as an example of how to define acceptable and expected behaviors in a positive work environment. ______________________________  Press SPACE to view website"
+                         "value":"W3C Code of Ethics and Professional Conduct : this code can be used as an example of how to define acceptable and expected behaviors in a positive work environment. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1354,17 +1354,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":960,
+                 "width":88,
+                 "x":964,
                  "y":1120
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Invisible Women: Data Bias in a World Designed for Men",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/carolinecriadoperez.com\/book\/invisible-women\/"
                         }, 
@@ -1376,7 +1376,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Invisible Women: Data Bias in a World Designed for Men: Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives. ______________________________  Press SPACE to view website"
+                         "value":"Invisible Women: Data Bias in a World Designed for Men: Data is fundamental to the modern world. From economic development, to healthcare, to education and public policy, we rely on numbers to allocate resources and make crucial decisions. But because so much data fails to take into account gender, because it treats men as the default and women as atypical, bias and discrimination are baked into our systems. And women pay tremendous costs for this bias, in time, money, and often with their lives. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1386,17 +1386,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1056,
+                 "width":88,
+                 "x":1060,
                  "y":1120
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Black Tech Pipeline",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/blacktechpipeline.com\/"
                         }, 
@@ -1408,7 +1408,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Black Tech Pipeline: brings exposure, resources, & opportunities to Black technologists. ______________________________  Press SPACE to view website"
+                         "value":"Black Tech Pipeline: brings exposure, resources, & opportunities to Black technologists. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1418,17 +1418,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1152,
+                 "width":88,
+                 "x":1156,
                  "y":1120
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Design Justice Network ",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/designjustice.org\/"
                         }, 
@@ -1440,7 +1440,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Design Justice Network : is committed to rethinking design processes so that they center people who are often marginalized by design. ______________________________  Press SPACE to view website"
+                         "value":"Design Justice Network : is committed to rethinking design processes so that they center people who are often marginalized by design. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1450,17 +1450,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":768,
-                 "y":1152
+                 "width":88,
+                 "x":772,
+                 "y":1156
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Diversify Tech",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.diversifytech.co\/"
                         }, 
@@ -1472,7 +1472,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Diversify Tech: collects scholarships, events, career opportunities and resources for underrepresented people in tech. ______________________________  Press SPACE to view website"
+                         "value":"Diversify Tech: collects scholarships, events, career opportunities and resources for underrepresented people in tech. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1482,17 +1482,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":864,
-                 "y":1152
+                 "width":88,
+                 "x":868,
+                 "y":1156
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Hire More Women In Tech",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.hiremorewomenintech.com\/"
                         }, 
@@ -1504,7 +1504,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Hire More Women In Tech: helps you learn a few simple things you can do to find and hire more qualified women in tech. ______________________________  Press SPACE to view website"
+                         "value":"Hire More Women In Tech: helps you learn a few simple things you can do to find and hire more qualified women in tech. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1514,17 +1514,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":960,
-                 "y":1152
+                 "width":88,
+                 "x":964,
+                 "y":1156
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"An Ethical Toolkit for Engineering\/Design Practice",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.scu.edu\/ethics-in-technology-practice\/ethical-toolkit\/"
                         }, 
@@ -1536,7 +1536,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"An Ethical Toolkit for Engineering\/Design Practice: a toolkit by the Markkula Center for Applied Ethics  ______________________________  Press SPACE to view website"
+                         "value":"An Ethical Toolkit for Engineering\/Design Practice: a toolkit by the Markkula Center for Applied Ethics  ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1546,12 +1546,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":96,
+                 "width":88,
+                 "x":100,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"A Framework for More Ethical Innovation by Substantial",
                  "properties":[
@@ -1568,7 +1568,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"A Framework for More Ethical Innovation by Substantial ______________________________  Press SPACE to view website"
+                         "value":"A Framework for More Ethical Innovation by Substantial ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1578,12 +1578,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":192,
+                 "width":88,
+                 "x":196,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Consequence Scanning Agile Kit",
                  "properties":[
@@ -1600,7 +1600,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Consequence Scanning Agile Kit ______________________________  Press SPACE to view website"
+                         "value":"Consequence Scanning Agile Kit ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1610,12 +1610,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":288,
+                 "width":88,
+                 "x":292,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Data Ethics Canvas by Open Data Institute",
                  "properties":[
@@ -1632,7 +1632,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Data Ethics Canvas by Open Data Institute ______________________________  Press SPACE to view website"
+                         "value":"Data Ethics Canvas by Open Data Institute ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1642,17 +1642,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":384,
+                 "width":88,
+                 "x":388,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Envisioning Cards",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/www.envisioningcards.com"
                         }, 
@@ -1664,7 +1664,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Envisioning Cards ______________________________  Press SPACE to view website"
+                         "value":"Envisioning Cards ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1674,12 +1674,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":480,
+                 "width":88,
+                 "x":484,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Ethical Licenses for Open Source Software",
                  "properties":[
@@ -1696,7 +1696,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ethical Licenses for Open Source Software ______________________________  Press SPACE to view website"
+                         "value":"Ethical Licenses for Open Source Software ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1706,12 +1706,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":96,
-                 "y":480
+                 "width":88,
+                 "x":100,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Ethics for Designers",
                  "properties":[
@@ -1728,7 +1728,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ethics for Designers ______________________________  Press SPACE to view website"
+                         "value":"Ethics for Designers ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1738,17 +1738,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":192,
-                 "y":480
+                 "width":88,
+                 "x":196,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Privacy by Design",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/iapp.org\/media\/pdf\/resource_center\/pbd_implement_7found_principles.pdf"
                         }, 
@@ -1760,7 +1760,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Privacy by Design ______________________________  Press SPACE to view website"
+                         "value":"Privacy by Design ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1770,17 +1770,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":288,
-                 "y":480
+                 "width":88,
+                 "x":292,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Responsible tech playbook by Thoughtworks",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.thoughtworks.com\/about-us\/social-change\/responsible-tech-playbook"
                         }, 
@@ -1792,7 +1792,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Responsible tech playbook by Thoughtworks ______________________________  Press SPACE to view website"
+                         "value":"Responsible tech playbook by Thoughtworks ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1802,12 +1802,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":384,
-                 "y":480
+                 "width":88,
+                 "x":388,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Spotify's Ethics Assessment Worksheet",
                  "properties":[
@@ -1824,7 +1824,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Spotify's Ethics Assessment Worksheet ______________________________  Press SPACE to view website"
+                         "value":"Spotify's Ethics Assessment Worksheet ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1834,17 +1834,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":480,
-                 "y":480
+                 "width":88,
+                 "x":484,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Values in Computing",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"http:\/\/www.valuesincomputing.org"
                         }, 
@@ -1856,7 +1856,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Values in Computing ______________________________  Press SPACE to view website"
+                         "value":"Values in Computing ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1866,12 +1866,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":96,
+                 "width":88,
+                 "x":100,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Tethix Directory of Ethics Tools and Techniques",
                  "properties":[
@@ -1888,7 +1888,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Tethix Directory of Ethics Tools and Techniques ______________________________  Press SPACE to view website"
+                         "value":"Tethix Directory of Ethics Tools and Techniques ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1898,12 +1898,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":192,
+                 "width":88,
+                 "x":196,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"The Ethics and Inclusion Framework",
                  "properties":[
@@ -1920,7 +1920,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"The Ethics and Inclusion Framework ______________________________  Press SPACE to view website"
+                         "value":"The Ethics and Inclusion Framework ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1930,17 +1930,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":288,
+                 "width":88,
+                 "x":292,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Value Sensitive Design Research Lab",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/vsdesign.org\/toolkits\/"
                         }, 
@@ -1952,7 +1952,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Value Sensitive Design Research Lab ______________________________  Press SPACE to view website"
+                         "value":"Value Sensitive Design Research Lab ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1962,12 +1962,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":384,
+                 "width":88,
+                 "x":388,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence",
                  "properties":[
@@ -1984,7 +1984,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence ______________________________  Press SPACE to view website"
+                         "value":"Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -1994,12 +1994,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":480,
+                 "width":88,
+                 "x":484,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass",
                  "properties":[
@@ -2016,7 +2016,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass ______________________________  Press SPACE to view website"
+                         "value":"Ghost Work: How to Stop Silicon Valley from Building a New Global Underclass ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2026,12 +2026,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":96,
-                 "y":608
+                 "width":88,
+                 "x":100,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Ruined by Design: A design ethics and activism book",
                  "properties":[
@@ -2048,7 +2048,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ruined by Design: A design ethics and activism book ______________________________  Press SPACE to view website"
+                         "value":"Ruined by Design: A design ethics and activism book ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2058,12 +2058,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":192,
-                 "y":608
+                 "width":88,
+                 "x":196,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"All Tech Is Human",
                  "properties":[
@@ -2080,7 +2080,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"All Tech Is Human: is a non-profit focused on building the responsible tech pipeline. ______________________________  Press SPACE to view website"
+                         "value":"All Tech Is Human: is a non-profit focused on building the responsible tech pipeline. ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2090,12 +2090,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":288,
-                 "y":608
+                 "width":88,
+                 "x":292,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Ethical Design Network",
                  "properties":[
@@ -2112,7 +2112,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Ethical Design Network: is a community for people interested in ethical design. ______________________________  Press SPACE to view website"
+                         "value":"Ethical Design Network: is a community for people interested in ethical design. ____________________________ \ud83d\udc53 Press SPACE to view website"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2122,17 +2122,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":384,
-                 "y":608
+                 "width":88,
+                 "x":388,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"B Impact Assessment",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/bimpactassessment.net\/"
                         }, 
@@ -2144,7 +2144,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"B Impact Assessment: is a tool a company can use to measure its impact on its workers, community, environment, and customers. ______________________________  Press SPACE to view website"
+                         "value":"B Impact Assessment: is a tool a company can use to measure its impact on its workers, community, environment, and customers. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2154,17 +2154,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1408,
+                 "width":88,
+                 "x":1412,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"ClimateAction.Tech guide: Reduce the carbon emissions of your website",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/climateaction.tech\/actions\/reduce-the-carbon-emissions-of-your-website\/"
                         }, 
@@ -2176,7 +2176,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"ClimateAction.Tech guide: Reduce the carbon emissions of your website ______________________________  Press SPACE to view website"
+                         "value":"ClimateAction.Tech guide: Reduce the carbon emissions of your website ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2186,17 +2186,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1504,
+                 "width":88,
+                 "x":1508,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Climate Justice 101 Guide",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.notion.so\/Climate-Justice-101-Guide-03bef96c18364c6cbca481ead365ae9e"
                         }, 
@@ -2208,7 +2208,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Climate Justice 101 Guide ______________________________  Press SPACE to view website"
+                         "value":"Climate Justice 101 Guide ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2218,17 +2218,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1600,
+                 "width":88,
+                 "x":1604,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Cloud Carbon Emissions Measurement and Analysis Tool",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.cloudcarbonfootprint.org\/"
                         }, 
@@ -2240,7 +2240,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Cloud Carbon Emissions Measurement and Analysis Tool ______________________________  Press SPACE to view website"
+                         "value":"Cloud Carbon Emissions Measurement and Analysis Tool ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2250,17 +2250,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1696,
+                 "width":88,
+                 "x":1700,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Planet Centric Design",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/planetcentricdesign.com\/"
                         }, 
@@ -2272,7 +2272,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Planet Centric Design ______________________________  Press SPACE to view website"
+                         "value":"Planet Centric Design ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2282,17 +2282,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1792,
+                 "width":88,
+                 "x":1796,
                  "y":448
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Principles of Green Software Engineering",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/principles.green\/"
                         }, 
@@ -2304,7 +2304,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Principles of Green Software Engineering ______________________________  Press SPACE to view website"
+                         "value":"Principles of Green Software Engineering ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2314,17 +2314,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1408,
-                 "y":480
+                 "width":88,
+                 "x":1412,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Sustainable Design Tools",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.sdfy.org\/sustainable-design-tools"
                         }, 
@@ -2336,7 +2336,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Sustainable Design Tools ______________________________  Press SPACE to view website"
+                         "value":"Sustainable Design Tools ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2346,17 +2346,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1504,
-                 "y":480
+                 "width":88,
+                 "x":1508,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Sustainable Web Design",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/sustainablewebdesign.org\/"
                         }, 
@@ -2368,7 +2368,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Sustainable Web Design ______________________________  Press SPACE to view website"
+                         "value":"Sustainable Web Design ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2378,17 +2378,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1600,
-                 "y":480
+                 "width":88,
+                 "x":1604,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Tools for Sustainable Innovation by Threebility",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.threebility.com\/tools"
                         }, 
@@ -2400,7 +2400,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Tools for Sustainable Innovation by Threebility ______________________________  Press SPACE to view website"
+                         "value":"Tools for Sustainable Innovation by Threebility ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2410,17 +2410,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1696,
-                 "y":480
+                 "width":88,
+                 "x":1700,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Website Carbon Calculator",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.websitecarbon.com\/"
                         }, 
@@ -2432,7 +2432,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Website Carbon Calculator ______________________________  Press SPACE to view website"
+                         "value":"Website Carbon Calculator ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2442,17 +2442,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1792,
-                 "y":480
+                 "width":88,
+                 "x":1796,
+                 "y":484
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Sustainable Virtual Design",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/sustainablevirtualdesign.wordpress.com\/"
                         }, 
@@ -2464,7 +2464,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Sustainable Virtual Design ______________________________  Press SPACE to view website"
+                         "value":"Sustainable Virtual Design ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2474,17 +2474,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1408,
+                 "width":88,
+                 "x":1412,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"SustainableBusinessModel.org",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/sustainablebusinessmodel.org\/"
                         }, 
@@ -2496,7 +2496,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"SustainableBusinessModel.org: presents academic research on business models for sustainability. ______________________________  Press SPACE to view website"
+                         "value":"SustainableBusinessModel.org: presents academic research on business models for sustainability. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2506,17 +2506,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1504,
+                 "width":88,
+                 "x":1508,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Design Is the Problem: The Future of Design Must be Sustainable",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/rosenfeldmedia.com\/books\/design-is-the-problem\/"
                         }, 
@@ -2528,7 +2528,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Design Is the Problem: The Future of Design Must be Sustainable ______________________________  Press SPACE to view website"
+                         "value":"Design Is the Problem: The Future of Design Must be Sustainable ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2538,17 +2538,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1600,
+                 "width":88,
+                 "x":1604,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Designing for Sustainability",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.oreilly.com\/library\/view\/designing-for-sustainability\/9781491935767\/"
                         }, 
@@ -2560,7 +2560,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Designing for Sustainability ______________________________  Press SPACE to view website"
+                         "value":"Designing for Sustainability ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2570,17 +2570,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1696,
+                 "width":88,
+                 "x":1700,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"World Wide Waste",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/gerrymcgovern.com\/books\/world-wide-waste\/"
                         }, 
@@ -2592,7 +2592,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"World Wide Waste ______________________________  Press SPACE to view website"
+                         "value":"World Wide Waste ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2602,17 +2602,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1792,
+                 "width":88,
+                 "x":1796,
                  "y":576
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"ClimateAction.tech",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/climateaction.tech\/"
                         }, 
@@ -2624,7 +2624,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"ClimateAction.tech: is a worldwide community connecting tech workers that want to learn more about climate action, discover climate jobs and more. ______________________________  Press SPACE to view website"
+                         "value":"ClimateAction.tech: is a worldwide community connecting tech workers that want to learn more about climate action, discover climate jobs and more. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2634,17 +2634,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1408,
-                 "y":608
+                 "width":88,
+                 "x":1412,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"The Green Web Foundation",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/www.thegreenwebfoundation.org\/"
                         }, 
@@ -2656,7 +2656,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"The Green Web Foundation: offers a directory of green hosting providers and other useful green hosting tools. ______________________________  Press SPACE to view website"
+                         "value":"The Green Web Foundation: offers a directory of green hosting providers and other useful green hosting tools. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2666,17 +2666,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1504,
-                 "y":608
+                 "width":88,
+                 "x":1508,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"Work on Climate",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/workonclimate.org"
                         }, 
@@ -2688,7 +2688,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Work on Climate: is an action-oriented Slack community for people serious about climate work. ______________________________  Press SPACE to view website"
+                         "value":"Work on Climate: is an action-oriented Slack community for people serious about climate work. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2698,17 +2698,17 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1600,
-                 "y":608
+                 "width":88,
+                 "x":1604,
+                 "y":612
                 }, 
                 {
-                 "height":32,
+                 "height":28,
                  "id":100,
                  "name":"SustainableUX",
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
                          "value":"https:\/\/sustainableux.com\/"
                         }, 
@@ -2720,7 +2720,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"SustainableUX: is an online free conference for UX, front-end, and product people interested in sustainability. ______________________________  Press SPACE to view website"
+                         "value":"SustainableUX: is an online free conference for UX, front-end, and product people interested in sustainability. ____________________________ \ud83d\udeaa Press SPACE to open link in new tab"
                         }, 
                         {
                          "name":"openWebsiteWidth",
@@ -2730,9 +2730,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":1696,
-                 "y":608
+                 "width":88,
+                 "x":1700,
+                 "y":612
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2755,12 +2755,12 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 4854, 0, 0, 4854, 0, 0, 4854, 0, 0, 4854, 0, 0, 4854, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4854, 0, 0, 4856, 0, 0, 4856, 0, 0, 4856, 0, 0, 4854, 0, 0, 0, 0,
-            0, 0, 0, 5211, 5212, 5213, 5211, 5212, 5213, 5211, 5212, 5213, 5211, 5212, 5213, 5211, 5212, 5213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 0, 0, 0,
-            0, 0, 0, 5199, 5200, 5201, 5199, 5200, 5201, 5199, 5200, 5201, 5196, 5197, 5198, 5199, 5200, 5201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 0, 0, 0,
+            0, 0, 0, 5202, 5203, 5204, 5202, 5203, 5204, 5202, 5203, 5204, 5202, 5203, 5204, 5202, 5203, 5204, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 0, 0, 0,
+            0, 0, 0, 5190, 5191, 5192, 5190, 5191, 5192, 5190, 5191, 5192, 5196, 5197, 5198, 5190, 5191, 5192, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 0, 0, 0,
             0, 0, 0, 0, 4864, 0, 0, 4864, 0, 0, 4864, 0, 0, 4864, 0, 0, 4864, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4866, 0, 0, 4864, 0, 0, 4864, 0, 0, 4864, 0, 0, 4864, 0, 0, 0, 0,
             0, 0, 0, 0, 4856, 0, 0, 4856, 0, 0, 4854, 0, 0, 4856, 0, 0, 4855, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4856, 0, 0, 4856, 0, 0, 4855, 0, 0, 4855, 0, 0, 4855, 0, 0, 0, 0,
-            0, 0, 0, 5208, 5209, 5210, 5211, 5212, 5213, 5211, 5212, 5213, 5208, 5209, 5210, 5205, 5206, 5207, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 0, 0, 0,
-            0, 0, 0, 5193, 5194, 5195, 5193, 5194, 5195, 5190, 5191, 5192, 5190, 5191, 5192, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 5208, 5209, 5210, 5202, 5203, 5204, 5202, 5203, 5204, 5208, 5209, 5210, 5205, 5206, 5207, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 5142, 5143, 5144, 0, 0, 0,
+            0, 0, 0, 5193, 5194, 5195, 5193, 5194, 5195, 5199, 5200, 5201, 5199, 5200, 5201, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 5130, 5131, 5132, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 4865, 0, 0, 4865, 0, 0, 4867, 0, 0, 4867, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4867, 0, 0, 4867, 0, 0, 4867, 0, 0, 4868, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 4854, 0, 0, 4854, 0, 0, 4854, 0, 0, 4854, 0, 0, 4856, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4854, 0, 0, 4854, 0, 0, 4854, 0, 0, 4855, 0, 0, 4855, 0, 0, 0, 0,
