@@ -28,7 +28,7 @@ WA.onInit().then(() => {
     // Listening to player's request for help in the chat
     WA.chat.onChatMessage((message => {
         if (message == 'help') {
-            WA.nav.openCoWebSite('../library_info.html');
+            WA.nav.openCoWebSite('https://responsibletech.work/library/about/');
         }
     }));
 

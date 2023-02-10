@@ -2837,7 +2837,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/responsibletech.work\/"
+                         "value":"https:\/\/responsibletech.work\/library\/events\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2869,7 +2869,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"newsstand.html"
+                         "value":"https:\/\/responsibletech.work\/library\/newsstand\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2901,7 +2901,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"library_info.html"
+                         "value":"https:\/\/responsibletech.work\/library\/about\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
