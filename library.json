@@ -2869,7 +2869,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/responsibletech.work\/library\/newsstand\/"
+                         "value":"https:\/\/responsibletech.work\/library\/magazines\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -2879,7 +2879,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE to view the Library Newsstand"
+                         "value":"Press SPACE to view the Magazine Rack"
                         }, 
                         {
                          "name":"openWebsiteWidth",
